@@ -1,0 +1,12 @@
+<?php
+include("header.php");
+?>
+<?php
+include("navbar.php");
+?>
+<?php
+include("post.php");
+?>
+<?php
+include("footer.php");
+?>
